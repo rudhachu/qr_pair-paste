@@ -1,5 +1,5 @@
 {
-    "description": "qr",
+    "description": "qr-pair",
     "main": "index.js",
   "engines" : { 
     "npm" : ">=9.7.2",
@@ -8,11 +8,11 @@
     "scripts": {
     "start": "node index.js"
   },
-  "author": "GlobalTechInfo",
+  "author": "princerudh",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.6.0",
+    "@whiskeysockets/baileys": "^6.7.8",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
